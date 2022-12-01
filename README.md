@@ -2,6 +2,10 @@
 
 https://adventofcode.com/
 
+## 2022
+
+### Day 1 [javascript]
+
 ## 2021
 
 ### Day 7 [ruby]
