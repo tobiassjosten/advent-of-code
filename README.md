@@ -4,6 +4,10 @@ https://adventofcode.com/
 
 ## 2022
 
+### Day 2 [java]
+
+    docker run -it --mount type=bind,source="$(pwd)",target=/app amazoncorretto:8 /bin/bash
+
 ### Day 1 [javascript]
 
 ## 2021
