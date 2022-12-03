@@ -4,6 +4,14 @@ https://adventofcode.com/
 
 ## 2022
 
+### Day 3 [erlang]
+
+https://erlangbyexample.org/
+
+https://learnyousomeerlang.com/
+
+    docker run -it --mount type=bind,source="$(pwd)",target=/app erlang:25 /bin/bash
+
 ### Day 2 [java]
 
     docker run -it --mount type=bind,source="$(pwd)",target=/app amazoncorretto:8 /bin/bash
