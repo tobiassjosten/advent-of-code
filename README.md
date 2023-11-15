@@ -2,6 +2,16 @@
 
 https://adventofcode.com/
 
+## 2023
+
+- rust?
+- dart?
+- nim?
+- crystal?
+- zig?
+- elixir?
+- idris?
+
 ## 2022
 
 ### Day 3 [erlang]
