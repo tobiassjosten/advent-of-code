@@ -2,6 +2,10 @@
 
 https://adventofcode.com/
 
+## 2024
+
+### Day 1 [c]
+
 ## 2023
 
 - rust?
