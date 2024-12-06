@@ -6,6 +6,16 @@ https://adventofcode.com/
 
 ### Day 1 [c]
 
+    gcc -o part-1 part-1.c && ./part-1 < input.txt
+
+    gcc -o part-2 part-2.c && ./part-2 < input.txt
+
+### Day 2 [zig]
+
+    zig run part-1.zig < input.txt
+
+    zig run part-2.zig < input.txt
+
 ## 2023
 
 - rust?
