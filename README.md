@@ -16,13 +16,18 @@ https://adventofcode.com/
 
     zig run part-2.zig < input.txt
 
+### Day 3 [nim]
+
+https://learnxinyminutes.com/docs/nim/
+
+    nim r part1.nim < input.txt
+
 ## 2023
 
 - rust?
 - dart?
 - nim?
 - crystal?
-- zig?
 - elixir?
 - idris?
 
