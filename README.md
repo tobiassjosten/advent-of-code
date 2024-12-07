@@ -30,6 +30,15 @@ https://learnxinyminutes.com/docs/nim/
 - crystal?
 - elixir?
 - idris?
+- kotlin?
+- c++?
+- egel?
+- clojure?
+- swift?
+- pascal?
+- smalltalk?
+- fortran?
+- r?
 
 ## 2022
 
