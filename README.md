@@ -1,6 +1,23 @@
 # Advent of Code solutions
 
-https://adventofcode.com/
+Follow along as I try to solve [Advent of Code](https://adventofcode.com/) with a different language every day.
+
+## Potential languages
+
+- dart?
+- crystal?
+- elixir?
+- idris?
+- kotlin?
+- c++?
+- egel?
+- clojure?
+- swift?
+- pascal?
+- smalltalk?
+- fortran?
+- r?
+- odin?
 
 ## 2024
 
@@ -22,23 +39,15 @@ https://learnxinyminutes.com/docs/nim/
 
     nim r part1.nim < input.txt
 
+### Day 4 [kotlin]
+
+https://kotlinlang.org/docs/home.html
+
+    kotlin part-1.kts < input.txt
+
 ## 2023
 
-- rust?
-- dart?
-- nim?
-- crystal?
-- elixir?
-- idris?
-- kotlin?
-- c++?
-- egel?
-- clojure?
-- swift?
-- pascal?
-- smalltalk?
-- fortran?
-- r?
+### Day 1 [rust]
 
 ## 2022
 
