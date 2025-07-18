@@ -18,6 +18,7 @@ Follow along as I try to solve [Advent of Code](https://adventofcode.com/) with 
 - fortran?
 - r?
 - odin?
+- flix? https://flix.dev/
 
 ## 2024
 
