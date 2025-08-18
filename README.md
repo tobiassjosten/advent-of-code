@@ -19,6 +19,7 @@ Follow along as I try to solve [Advent of Code](https://adventofcode.com/) with 
 - r?
 - odin?
 - flix? https://flix.dev/
+- gleam? https://gleam.run/
 
 ## 2024
 
