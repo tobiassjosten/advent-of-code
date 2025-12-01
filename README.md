@@ -21,6 +21,18 @@ Follow along as I try to solve [Advent of Code](https://adventofcode.com/) with 
 - flix? https://flix.dev/
 - gleam? https://gleam.run/
 
+## 2025
+
+### Day 1 [fortran]
+
+https://fortran-lang.org/
+
+https://learnxinyminutes.com/fortran/
+
+    gfortran -O2 -o part-1 part-1.f90 && ./part-1 < input.txt
+
+    gfortran -O2 -o part-2 part-2.f90 && ./part-2 < input.txt
+
 ## 2024
 
 ### Day 1 [c]
