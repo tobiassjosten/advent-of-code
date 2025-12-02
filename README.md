@@ -15,9 +15,7 @@ Follow along as I try to solve [Advent of Code](https://adventofcode.com/) with 
 - swift?
 - pascal?
 - smalltalk?
-- fortran?
 - r?
-- odin?
 - flix? https://flix.dev/
 - gleam? https://gleam.run/
 
@@ -32,6 +30,18 @@ https://learnxinyminutes.com/fortran/
     gfortran -O2 -o part-1 part-1.f90 && ./part-1 < input.txt
 
     gfortran -O2 -o part-2 part-2.f90 && ./part-2 < input.txt
+
+### Day 2 [odin]
+
+https://odin-lang.org/
+
+https://learnodin.org/
+
+https://learnxinyminutes.com/odin/
+
+    odin run part-1.odin -file < input.txt
+
+    odin run part-2.odin -file < input.txt
 
 ## 2024
 
