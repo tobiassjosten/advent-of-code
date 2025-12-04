@@ -17,7 +17,6 @@ Follow along as I try to solve [Advent of Code](https://adventofcode.com/) with 
 - smalltalk?
 - r?
 - flix? https://flix.dev/
-- gleam? https://gleam.run/
 
 ## 2025
 
@@ -42,6 +41,16 @@ https://learnxinyminutes.com/odin/
     odin run part-1.odin -file < input.txt
 
     odin run part-2.odin -file < input.txt
+
+### Day 3 [gleam]
+
+https://gleam.run/
+
+https://tour.gleam.run/
+
+https://learnxinyminutes.com/gleam/
+
+    gleam run
 
 ## 2024
 
